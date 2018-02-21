@@ -14,5 +14,6 @@ class Keras(lore.models.keras.Base):
                 hidden_width=256,
                 batch_size=1024,
                 sequence_embedding='lstm',
+                sequence_embed_size=5,
             )
         )
