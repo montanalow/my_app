@@ -1,0 +1,37 @@
+{
+  "my_app.estimators.product_popularity.Keras": {
+    "batch_size": "32",
+    "cudnn": "False",
+    "decay": "0.0",
+    "dropout": "0",
+    "embed_size": "10",
+    "hidden_activation": "'relu'",
+    "hidden_activity_regularizer": "None",
+    "hidden_bias_regularizer": "None",
+    "hidden_kernel_regularizer": "None",
+    "hidden_layers": "2",
+    "hidden_width": "512",
+    "history": "{'val_loss': [565.3966592845122, 565.3966592845122], 'loss': [700.3083026156258, 700.3044698989462]}",
+    "keras": "None",
+    "layer_shrink": "0.5",
+    "learning_rate": "0.001",
+    "loss": "'mean_absolute_error'",
+    "model": "None",
+    "monitor": "'val_loss'",
+    "multi_gpu_model": "True",
+    "optimizer": "None",
+    "sequence_embed_size": "10",
+    "sequence_embedding": "'flatten'",
+    "session": "None",
+    "towers": "1"
+  },
+  "my_app.pipelines.product_popularity.Holdout": {
+    "index": "[]",
+    "multiprocessing": "False",
+    "name": "'my_app.pipelines.product_popularity.Holdout'",
+    "split_seed": "1",
+    "stratify": "None",
+    "subsample": "None",
+    "workers": "None"
+  }
+}
