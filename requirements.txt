@@ -73,7 +73,7 @@ pyrsistent==0.17.3
 python-dateutil==2.6.1
 python-dotenv==0.7.1
 pytz==2018.3
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.4
 qtconsole==4.3.1
 QtPy==1.9.0
