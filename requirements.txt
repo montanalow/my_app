@@ -92,7 +92,7 @@ sqlparse==0.4.1
 tabulate==0.8.2
 Tempita==0.5.2
 tensorflow-tensorboard==0.4.0
-tensorflow==1.4.1
+tensorflow==2.7.2
 terminado==0.8.1
 testpath==0.3.1
 tornado==4.5.3
